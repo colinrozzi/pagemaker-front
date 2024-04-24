@@ -1,0 +1,14 @@
+{
+  "name": "front",
+  "module": "main.js",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "mustache": "^4.2.0"
+  }
+}
